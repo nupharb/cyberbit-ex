@@ -1,0 +1,10 @@
+.section-comp {
+    border: 1px solid #0357bf;
+    border-radius: 3px;
+    /* flex-basis: auto;
+    flex-grow: 1; */
+}
+
+.section-comp .title {
+    background-color: #0357bf;
+}
